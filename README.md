@@ -1,2 +1,2 @@
-# googlepage it is the source code to develop a google web browser homepae using HTML AND CSS only. As it is a static site designed by only HTML 
-and CSS
+# googlepage it is the source code to develop a google web browser homepage using HTML AND CSS only. As it is a static site designed by only HTML 
+and CSS and it is the front end part of the goole web hope hope the visitor likes it....
